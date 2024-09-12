@@ -4,7 +4,7 @@
          <div class="container-fluid position-relative p-0">
             @include('client.partial.nav')
 
-           @include('client.partial.banner')
+           @include('client.partial.header')
         </div>
         <!-- Navbar & Hero End -->
         @include('client.partial.contact')
